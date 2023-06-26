@@ -1,16 +1,5 @@
-# calculadora
+Meu primeiro app criado em flutter como atividade do curso Lovepeople.
 
-A new Flutter project.
+![Android Emulator - Pixel_2_API_31_5554 26_06_2023 18_09_02](https://github.com/luthianopacheco/app-calculadora/assets/131195495/ce20102c-5806-461f-b9f3-4b8c94be3f3f)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Criado em base de tela do Pixel 2 API 31 emulado pelo Android Studio.
